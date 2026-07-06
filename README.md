@@ -18,7 +18,8 @@ This repository hosts the research poster detailing our comprehensive analytical
 
 ### 🔍 View Research Poster
 
-![Research Poster](/.Poster.png)
+<img width="3402" height="4536" alt="Poster" src="https://github.com/user-attachments/assets/24058e1b-3584-41d9-b969-c1a5a7117618" />
+
 
 ---
 
