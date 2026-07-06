@@ -18,7 +18,7 @@ This repository hosts the research poster detailing our comprehensive analytical
 
 ### 🔍 View Research Poster
 
-![Research Poster](Poster.png)
+![Research Poster](/.Poster.png)
 
 ---
 
