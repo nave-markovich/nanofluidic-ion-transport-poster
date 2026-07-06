@@ -24,17 +24,17 @@ This repository hosts the research poster detailing our comprehensive analytical
 ---
 
 ### 🔬 Core Methodology & Governing Equations
-Our study evaluates a steady-state, convection-less symmetric binary electrolyte ($D_{\pm} = D$ and $z_{\pm} = \pm z$) described by non-dimensional **Poisson-Boltzmann equations**:
+Our study evaluates a steady-state, convection-less symmetric binary electrolyte ($D_{\pm} = D$ and $z_{\pm} = \pm z$) described by non-dimensional **Poisson-Boltzmann equations**:[cite: 3]
 
 $$\frac{2\epsilon^{2}}{r}(r\phi_{m})_{r} = -(e^{-\phi} - e^{\phi})$$
 
 Where $\epsilon$ represents the non-dimensional Debye length:
+
 $$\epsilon = \frac{\tilde{\lambda}_D}{\tilde{a}_{\text{in}}} = \frac{1}{\tilde{a}_{\text{in}}}\sqrt{\frac{\tilde{\varepsilon}_0\varepsilon_f R \tilde{T}}{2\tilde{F}^2 z^2 \tilde{c}_0}}$$
 
 Analytical models were developed under a finite-gate boundary condition $\phi(a_{\text{out}}) = V_g$ split into two structural branches:
 * **Model-1:** Valid over low-to-moderate high-voltage regimes ($-100 \le V_g \le V_{\text{crit}}$).
 * **Model-2:** Valid over the highly positive high-voltage regime ($V_{\text{crit}} < V_g \le 100$).
-
 ---
 
 ### 📈 Key Results & Findings (Validated via COMSOL)
